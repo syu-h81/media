@@ -66,6 +66,8 @@
               <li><a href="#plan">プラン紹介</a></li>
               <li><a href="#faq">よくあるご質問</a></li>
               <li><a href="#company">運営会社</a></li>
+              <li><a href="#company">運営会社</a></li>
+              <li><a href="https://pivotta-sustain.spool.co.jp/media/">メディア</a></li>
             </ul>
           </nav>
           <div class="tel">
